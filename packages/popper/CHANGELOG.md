@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.1.6
+
+### Patch Changes
+
+- [`7151298ee`](https://github.com/chakra-ui/chakra-ui/commit/7151298ee1cd024a03c86f2f03202db58f3d0c74)
+  [#3513](https://github.com/chakra-ui/chakra-ui/pull/3513) Thanks
+  [@tomdohnal](https://github.com/tomdohnal)! - refactor react-popper to not
+  return unnecessary values
+
 ## 1.1.5
 
 ### Patch Changes
